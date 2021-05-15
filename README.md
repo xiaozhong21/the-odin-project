@@ -2,7 +2,7 @@
 
 [This Gist tracks my progress of The Odin Project](https://gist.github.com/xiaozhong21/b1bd68fd6f08863466712c6d0c86accc)
 
-The Odin Project is an open source community and curriculum for learning web development. Students of The Odin Project build portfolio projects and complete lessons that are constantly curated and updated with links to relevant resources.
+The Odin Project is an open source community and curriculum for learning web development. Students of The Odin Project build portfolio projects and complete lessons that are constantly curated and updated with links to relevant resources. I have committed myself to learning the TOP curriculum and building projects to apply my learning.
 
 TOP teaches:
 
